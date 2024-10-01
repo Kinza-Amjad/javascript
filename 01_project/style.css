@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(64, 64, 60);
+    color:white;
+}
+ #grey{
+    margin-left: 10px;
+    border:2px solid black;
+    width: 100px;
+    height:60px;
+    background-color: rgb(103, 109, 125);
+}
+#white{
+    border:2px solid black;
+    width: 100px;
+    height:60px;
+    background-color: rgb(246, 247, 249);
+    color: black;
+}
+#blue{
+    border:2px solid black;
+    width:20px;
+    height:10px;
+    background-color: rgb(43, 93, 230);
+}
+#yellow{
+    border:2px solid black;
+    width: 100px;
+    height:60px;
+    background-color: rgb(244, 241, 58);
+    color: black;
+}
